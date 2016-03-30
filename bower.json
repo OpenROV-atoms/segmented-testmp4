@@ -1,0 +1,18 @@
+{
+  "name": "segmented-testmp4",
+  "description": "MP4 video segments test data",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "brian@babastik.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
